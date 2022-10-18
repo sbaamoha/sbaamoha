@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sbaamoha
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning front end web development
-- 💞️ I’m looking to collaborate on full stack
-- 📫 How to reach me Dm me on insta mohe_sbaa
+- 🌱 I’m currently working as front end web development
 
 <!---
 sbaamoha/sbaamoha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
