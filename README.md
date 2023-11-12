@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">A Passionate Frontend Developer From Algeria</h3>
+<h3 align="center">Frontend Developer From Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbaamoha&label=Profile%20views&color=0e75b6&style=flat" alt="sbaamoha" /> </p>
 
