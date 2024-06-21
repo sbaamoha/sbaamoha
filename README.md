@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbaamoha&label=Profile%20views&color=0e75b6&style=flat" alt="sbaamoha" /> </p>
 
-- 🔭 I’m currently working on *My Portfolio*
+- 🔭 I’m currently working on Plane open source project
 
 - 👯 I’m looking to collaborate on *React projects to get more experience*
 
-- 💬 Ask me about *React, Nextjs*
+- 💬 Ask me about *React, Nextjs, Django, Nodejs, Docker*
 
 - 📫 How to reach me *sbaamohe@gmail.com*
 
